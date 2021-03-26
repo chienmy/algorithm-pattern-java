@@ -5,7 +5,7 @@
 在原项目的基础上，尽量保持了原有的结构划分，并做了一点微小的工作：
 
 - 代码改写为`java`语言版本
-- 调整部分内容，新增了几种算法
+- 调整内容，新增了几种算法
 - 补充部分[leetcode中国站](https://leetcode-cn.com/)的题目链接
 
 ## 核心内容
@@ -19,7 +19,6 @@
 ### 基础算法
 
 - [滑动窗口](./basic_algorithm/slide_window.md)
-- [递归算法](./basic_algorithm/recursion.md)
 - [回溯算法](./basic_algorithm/backtrack.md)
 - [二分搜索](./basic_algorithm/binary_search.md)
 - [排序算法](./basic_algorithm/sort.md)
@@ -27,7 +26,7 @@
 
 ### 进阶算法
 
-> 此处整理了一些不常见但是在特殊场景下很有效的算法
+> 此处整理了一些特殊情况下适用的算法
 
 - [快速选择](./advanced_algorithm/quick_select.md)
 - [三向切分快速排序](./advanced_algorithm/three_way_quick_sort.md)
