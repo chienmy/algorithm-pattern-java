@@ -7,6 +7,7 @@
 - 代码改写为`java`语言版本
 - 调整内容，新增了几种算法
 - 补充部分[leetcode中国站](https://leetcode-cn.com/)的题目链接
+- 书籍链接：[GitBook](https://chienmy.gitbook.io/algorithm-pattern-java/)
 
 ## 核心内容
 
@@ -39,7 +40,10 @@
 3. 查漏补缺：对于某些不常见的特殊解法，在最后快速刷掉，务必留下印象
 
 > ### 欢迎 star 本项目
+>
+> Github地址：https://github.com/chienmy/algorithm-pattern-java
+>
+> 本项目采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
 
-![](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
+<img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" align="left"/>
 
-本项目采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
