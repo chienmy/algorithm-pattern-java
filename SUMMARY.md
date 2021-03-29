@@ -16,6 +16,7 @@
 
 ## 进阶算法
 
+- [贪心算法](advanced_algorithm/greedy.md)
 - [快速选择](advanced_algorithm/quick_select.md)
 - [三向切分快速排序](advanced_algorithm/three_way_quick_sort.md)
 - [二进制运算](advanced_algorithm/binary_op.md)
