@@ -13,6 +13,7 @@
 - [二分搜索](basic_algorithm/binary_search.md)
 - [排序算法](basic_algorithm/sort.md)
 - [动态规划](basic_algorithm/dp.md)
+- [并查集](basic_algorithm/disjoin_set.md)
 
 ## 进阶算法
 
